@@ -1,0 +1,2 @@
+no terminal:
+g++ arquivo1.cpp arquivo2.cpp
